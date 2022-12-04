@@ -9,7 +9,7 @@ Polo Man is a project based on the `pololu 3Pi+` robot to explore the control of
 ## Project progress
 
 * Beta 1.0 **Completed the magnetometer-related drive and calibration of the robot**
-* Beta 2.0 **Conducted robot magnetometer schematic collection and experimented with relevant parameters **
+* Beta 2.0 **Conducted robot magnetometer schematic collection and experimented with relevant parameters**
 * Beta 3.0 **Completed writing of the motor class and adaptation of the related programs and completed distance keeping**
 * Beta 3.1 **Modified technical details and added light cues**
 
