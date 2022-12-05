@@ -105,7 +105,7 @@ void setup() {
     mx0=mag.m.x;
     my0=mag.m.y;
     mz0=mag.m.z;
-    delay(50);
+    delay(20);
     digitalWrite(LED_PIN, LOW);
 
 
@@ -113,7 +113,7 @@ void setup() {
     mx1=mag.m.x;
     my1=mag.m.y;
     mz1=mag.m.z;
-    delay(50);
+    delay(20);
 
         digitalWrite(LED_PIN, HIGH);
     // Calling this function from our instance
@@ -160,14 +160,14 @@ void loop() {
   mx0=mag.m.x;
   my0=mag.m.y;
   mz0=mag.m.z;
-  delay(50);
+  delay(20);
 
 
   mag.read();//读第二次
   mx1=mag.m.x;
   my1=mag.m.y;
   mz1=mag.m.z;
-  delay(50);
+  delay(20);
   // Calling this function from our instance
   // of the LIS3MDL class gets the latest
   // readings of the sensor.
@@ -194,7 +194,7 @@ void loop() {
 
   }
 
-  if (change_x > 0.3 && get_mag==0){
+  if (change_x > 0.4 && get_mag==0){
 
     Serial.println("Wait mag");
     mag_x = x;
@@ -227,7 +227,7 @@ void loop() {
   digitalWrite(LED_RED, HIGH);
   Serial.println(moto_speed);
 
-  delay(50);
+
 
   }
 

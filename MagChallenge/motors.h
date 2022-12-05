@@ -65,13 +65,13 @@ class Motors_c {
         analogWrite( L_PWM_PIN , -PWM_L );
         digitalWrite( L_DIR_PIN , REV );
       }
-      if( PWM_L > 255 ){
-        analogWrite( L_PWM_PIN , 255 );
+      if( PWM_L > 20 ){
+        analogWrite( L_PWM_PIN , 20 );
         digitalWrite( L_DIR_PIN , FWD );
         Serial.println("PWM_L is too high");
       }
-      if( PWM_L < -255 ){
-        analogWrite( L_PWM_PIN , 255 );
+      if( PWM_L < -20 ){
+        analogWrite( L_PWM_PIN , 20 );
         digitalWrite( L_DIR_PIN , REV );
         Serial.println("PWM_L is too high");
       }
@@ -96,13 +96,13 @@ class Motors_c {
         analogWrite( R_PWM_PIN , -PWM_R );
         digitalWrite( R_DIR_PIN , REV );
       }
-      if( PWM_R > 255 ){
-        analogWrite( R_PWM_PIN , 255 );
+      if( PWM_R > 20 ){
+        analogWrite( R_PWM_PIN , 20 );
         digitalWrite( R_DIR_PIN , FWD );
         Serial.println("PWM_R is too high");
       }
-      if( PWM_R < -255 ){
-        analogWrite( R_PWM_PIN , 255 );
+      if( PWM_R < -20 ){
+        analogWrite( R_PWM_PIN , 20 );
         digitalWrite( R_DIR_PIN , REV );
         Serial.println("PWM_R is too high");
       }
