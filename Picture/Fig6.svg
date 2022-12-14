@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-2 -13 968 363" width="968" height="363">
+  <defs/>
+  <g id="Canvas_1" stroke-dasharray="none" stroke="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-2" y="-13" width="968" height="363"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <g id="Group_311">
+          <g id="Graphic_312">
+            <rect x="-1.5" y="7" width="967" height="343" fill="white"/>
+          </g>
+        </g>
+        <g id="Group_308">
+          <g id="Graphic_310">
+            <rect x="-1.5" y="7" width="967" height="343" fill="white"/>
+          </g>
+          <g id="Graphic_309">
+            <rect x="550.5" y="79" width="324" height="218" fill="white"/>
+          </g>
+        </g>
+        <g id="Group_301">
+          <g id="Line_307">
+            <line x1="550.5" y1="297" x2="874.5" y2="297" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_306">
+            <line x1="610.0102" y1="297" x2="610.0102" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_305">
+            <line x1="676.1326" y1="297" x2="676.1326" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_304">
+            <line x1="742.2551" y1="297" x2="742.2551" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_303">
+            <line x1="808.3776" y1="297" x2="808.3776" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_302">
+            <line x1="874.5" y1="297" x2="874.5" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+        </g>
+        <g id="Group_299">
+          <g id="Graphic_300">
+            <title>Text</title>
+            <text transform="translate(600.5102 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">10</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_297">
+          <g id="Graphic_298">
+            <title>Text</title>
+            <text transform="translate(666.6326 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">20</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_295">
+          <g id="Graphic_296">
+            <title>Text</title>
+            <text transform="translate(732.7551 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">30</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_293">
+          <g id="Graphic_294">
+            <title>Text</title>
+            <text transform="translate(798.8776 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">40</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_291">
+          <g id="Graphic_292">
+            <title>Text</title>
+            <text transform="translate(865 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">50</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_289">
+          <g id="Graphic_290">
+            <title>Text</title>
+            <text transform="translate(641.5001 327.5496)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="18.3333" fill="#262626" x="0" y="18">Experiment times</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_283">
+          <g id="Line_288">
+            <line x1="550.5" y1="297" x2="550.5" y2="79" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_287">
+            <line x1="550.5" y1="253.4" x2="553.74" y2="253.4" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_286">
+            <line x1="550.5" y1="198.9" x2="553.74" y2="198.9" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_285">
+            <line x1="550.5" y1="144.4" x2="553.74" y2="144.4" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_284">
+            <line x1="550.5" y1="89.9" x2="553.74" y2="89.9" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+        </g>
+        <g id="Group_281">
+          <g id="Graphic_282">
+            <title>Text</title>
+            <text transform="translate(533.8333 243.73302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">0</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_279">
+          <g id="Graphic_280">
+            <title>Text</title>
+            <text transform="translate(519.8333 189.23302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">0.1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_277">
+          <g id="Graphic_278">
+            <title>Text</title>
+            <text transform="translate(519.8333 134.73302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">0.2</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_275">
+          <g id="Graphic_276">
+            <title>Text</title>
+            <text transform="translate(519.8333 80.23302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">0.3</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_273">
+          <g id="Graphic_274">
+            <title>Text</title>
+            <text transform="translate(492.0496 249.9999) rotate(-90)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="18.3333" fill="#262626" x="0" y="18">Magnetic value</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_271">
+          <g id="Graphic_272">
+            <title>Text</title>
+            <text transform="translate(621.0007 53.4663)" fill="black">
+              <tspan font-family="Helvetica" font-size="18.3333" fill="black" x="0" y="18">Significant Differences</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_170">
+          <g id="Graphic_270">
+            <circle cx="550.5" cy="269.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_269">
+            <circle cx="557.1122" cy="269.75" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_268">
+            <circle cx="563.7245" cy="264.3" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_267">
+            <circle cx="570.3367" cy="269.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_266">
+            <circle cx="576.949" cy="280.65" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_265">
+            <circle cx="583.5612" cy="280.65" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_264">
+            <circle cx="590.1735" cy="264.3" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_263">
+            <circle cx="596.7857" cy="269.75" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_262">
+            <circle cx="603.3979" cy="264.3" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_261">
+            <circle cx="610.0102" cy="275.2" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_260">
+            <circle cx="616.6224" cy="264.3" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_259">
+            <circle cx="623.2347" cy="253.4" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_258">
+            <circle cx="629.8469" cy="258.85" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_257">
+            <circle cx="636.4592" cy="264.3" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_256">
+            <circle cx="643.0714" cy="269.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_255">
+            <circle cx="649.6837" cy="258.85" r="5.00001048951352" fill="red"/>
+          </g>
+          <g id="Graphic_254">
+            <circle cx="656.2959" cy="269.75" r="5.00001048951351" fill="red"/>
+          </g>
+          <g id="Graphic_253">
+            <circle cx="662.9081" cy="275.2" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_252">
+            <circle cx="669.5204" cy="297" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_251">
+            <circle cx="676.1326" cy="269.75" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_250">
+            <circle cx="682.7449" cy="286.1" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_249">
+            <circle cx="689.3571" cy="258.85" r="5.00001048951352" fill="red"/>
+          </g>
+          <g id="Graphic_248">
+            <circle cx="695.9694" cy="258.85" r="5.00001048951352" fill="red"/>
+          </g>
+          <g id="Graphic_247">
+            <circle cx="702.5816" cy="264.3" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_246">
+            <circle cx="709.1938" cy="275.2" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_245">
+            <circle cx="715.8062" cy="275.2" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_244">
+            <circle cx="722.4184" cy="275.2" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_243">
+            <circle cx="729.0306" cy="275.2" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_242">
+            <circle cx="735.6429" cy="269.75" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_241">
+            <circle cx="742.2551" cy="275.2" r="5.00001048951353" fill="red"/>
+          </g>
+          <g id="Graphic_240">
+            <circle cx="748.8674" cy="275.2" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_239">
+            <circle cx="755.4796" cy="275.2" r="5.00001048951353" fill="red"/>
+          </g>
+          <g id="Graphic_238">
+            <circle cx="762.0919" cy="269.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_237">
+            <circle cx="768.7041" cy="264.3" r="5.00001048951351" fill="red"/>
+          </g>
+          <g id="Graphic_236">
+            <circle cx="775.3163" cy="258.85" r="5.00001048951353" fill="red"/>
+          </g>
+          <g id="Graphic_235">
+            <circle cx="781.9286" cy="264.3" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_234">
+            <circle cx="788.5408" cy="264.3" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_233">
+            <circle cx="795.1531" cy="264.3" r="5.00001048951351" fill="red"/>
+          </g>
+          <g id="Graphic_232">
+            <circle cx="801.7653" cy="269.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_231">
+            <circle cx="808.3776" cy="275.2" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_230">
+            <circle cx="814.9898" cy="258.85" r="5.00001048951349" fill="red"/>
+          </g>
+          <g id="Graphic_229">
+            <circle cx="821.6021" cy="258.85" r="5.00001048951349" fill="red"/>
+          </g>
+          <g id="Graphic_228">
+            <circle cx="828.2143" cy="275.2" r="5.00001048951351" fill="red"/>
+          </g>
+          <g id="Graphic_227">
+            <circle cx="834.8265" cy="280.65" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_226">
+            <circle cx="841.4388" cy="258.85" r="5.00001048951349" fill="red"/>
+          </g>
+          <g id="Graphic_225">
+            <circle cx="848.051" cy="264.3" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_224">
+            <circle cx="854.6633" cy="280.65" r="5.00001048951351" fill="red"/>
+          </g>
+          <g id="Graphic_223">
+            <circle cx="861.2755" cy="264.3" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_222">
+            <circle cx="867.8878" cy="258.85" r="5.00001048951352" fill="red"/>
+          </g>
+          <g id="Graphic_221">
+            <circle cx="874.5" cy="258.85" r="5.00001048951349" fill="red"/>
+          </g>
+          <g id="Graphic_220">
+            <circle cx="550.5" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_219">
+            <circle cx="557.1122" cy="106.25" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_218">
+            <circle cx="563.7245" cy="106.25" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_217">
+            <circle cx="570.3367" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_216">
+            <circle cx="576.949" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_215">
+            <circle cx="583.5612" cy="100.8" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_214">
+            <circle cx="590.1735" cy="89.9" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_213">
+            <circle cx="596.7857" cy="117.15" r="5.00001048951352" fill="lime"/>
+          </g>
+          <g id="Graphic_212">
+            <circle cx="603.3979" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_211">
+            <circle cx="610.0102" cy="89.9" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_210">
+            <circle cx="616.6224" cy="122.6" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_209">
+            <circle cx="623.2347" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_208">
+            <circle cx="629.8469" cy="122.6" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_207">
+            <circle cx="636.4592" cy="100.8" r="5.00001048951352" fill="lime"/>
+          </g>
+          <g id="Graphic_206">
+            <circle cx="643.0714" cy="89.9" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_205">
+            <circle cx="649.6837" cy="100.8" r="5.00001048951354" fill="lime"/>
+          </g>
+          <g id="Graphic_204">
+            <circle cx="656.2959" cy="95.35" r="5.00001048951352" fill="lime"/>
+          </g>
+          <g id="Graphic_203">
+            <circle cx="662.9081" cy="111.7" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_202">
+            <circle cx="669.5204" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_201">
+            <circle cx="676.1326" cy="111.7" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_200">
+            <circle cx="682.7449" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_199">
+            <circle cx="689.3571" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_198">
+            <circle cx="695.9694" cy="111.7" r="5.00001048951352" fill="lime"/>
+          </g>
+          <g id="Graphic_197">
+            <circle cx="702.5816" cy="117.15" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_196">
+            <circle cx="709.1938" cy="111.7" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_195">
+            <circle cx="715.8062" cy="111.7" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_194">
+            <circle cx="722.4184" cy="111.7" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_193">
+            <circle cx="729.0306" cy="106.25" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_192">
+            <circle cx="735.6429" cy="95.35" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_191">
+            <circle cx="742.2551" cy="89.9" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_190">
+            <circle cx="748.8674" cy="95.35" r="5.00001048951352" fill="lime"/>
+          </g>
+          <g id="Graphic_189">
+            <circle cx="755.4796" cy="95.35" r="5.00001048951355" fill="lime"/>
+          </g>
+          <g id="Graphic_188">
+            <circle cx="762.0919" cy="84.45" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_187">
+            <circle cx="768.7041" cy="79" r="5.00001048951352" fill="lime"/>
+          </g>
+          <g id="Graphic_186">
+            <circle cx="775.3163" cy="84.45" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_185">
+            <circle cx="781.9286" cy="95.35" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_184">
+            <circle cx="788.5408" cy="100.8" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_183">
+            <circle cx="795.1531" cy="100.8" r="5.00001048951354" fill="lime"/>
+          </g>
+          <g id="Graphic_182">
+            <circle cx="801.7653" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_181">
+            <circle cx="808.3776" cy="111.7" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_180">
+            <circle cx="814.9898" cy="122.6" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_179">
+            <circle cx="821.6021" cy="106.25" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_178">
+            <circle cx="828.2143" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_177">
+            <circle cx="834.8265" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_176">
+            <circle cx="841.4388" cy="117.15" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_175">
+            <circle cx="848.051" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_174">
+            <circle cx="854.6633" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+          <g id="Graphic_173">
+            <circle cx="861.2755" cy="106.25" r="5.00001048951351" fill="lime"/>
+          </g>
+          <g id="Graphic_172">
+            <circle cx="867.8878" cy="100.8" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_171">
+            <circle cx="874.5" cy="106.25" r="5.0000104895135" fill="lime"/>
+          </g>
+        </g>
+        <g id="Group_165">
+          <g id="Line_169">
+            <line x1="550.5" y1="253.4" x2="874.5" y2="253.4" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_168">
+            <line x1="550.5" y1="297" x2="874.5" y2="297" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_167">
+            <line x1="550.5" y1="79" x2="874.5" y2="79" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_166">
+            <line x1="550.5" y1="122.6" x2="874.5" y2="122.6" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+        </g>
+        <g id="Group_163">
+          <g id="Graphic_164">
+            <rect x="614.5" y="167" width="189" height="45" fill="white"/>
+          </g>
+        </g>
+        <g id="Group_161">
+          <g id="Graphic_162">
+            <title>Text</title>
+            <text transform="translate(314 24.316218)" fill="black">
+              <tspan font-family="Helvetica" font-size="15" fill="black" x="0" y="15">Environment value</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_159">
+          <g id="Graphic_160">
+            <circle cx="301.5" cy="33.48315" r="5.00001048951349" fill="red"/>
+          </g>
+        </g>
+        <g id="Group_157">
+          <g id="Graphic_158">
+            <title>Text</title>
+            <text transform="translate(503.15754 24.48315)" fill="black">
+              <tspan font-family="Helvetica" font-size="15" fill="black" x="0" y="15">Experiment value</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_155">
+          <g id="Graphic_156">
+            <circle cx="491.5" cy="33.48315" r="5.00001048951348" fill="lime"/>
+          </g>
+        </g>
+        <g id="Group_151">
+          <g id="Graphic_152">
+            <rect x="124.5" y="79" width="324" height="218" fill="white"/>
+          </g>
+        </g>
+        <g id="Group_144">
+          <g id="Line_150">
+            <line x1="124.5" y1="297" x2="448.5" y2="297" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_149">
+            <line x1="184.0102" y1="297" x2="184.0102" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_148">
+            <line x1="250.1327" y1="297" x2="250.1327" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_147">
+            <line x1="316.2551" y1="297" x2="316.2551" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_146">
+            <line x1="382.3776" y1="297" x2="382.3776" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_145">
+            <line x1="448.5" y1="297" x2="448.5" y2="293.76" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+        </g>
+        <g id="Group_142">
+          <g id="Graphic_143">
+            <title>Text</title>
+            <text transform="translate(174.5102 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">10</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_140">
+          <g id="Graphic_141">
+            <title>Text</title>
+            <text transform="translate(240.6327 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">20</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_138">
+          <g id="Graphic_139">
+            <title>Text</title>
+            <text transform="translate(306.7551 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">30</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_136">
+          <g id="Graphic_137">
+            <title>Text</title>
+            <text transform="translate(372.8776 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">40</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_134">
+          <g id="Graphic_135">
+            <title>Text</title>
+            <text transform="translate(439 304.4997)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">50</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_132">
+          <g id="Graphic_133">
+            <title>Text</title>
+            <text transform="translate(215.5002 327.5496)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="18.3333" fill="#262626" x="0" y="18">Experiment times</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_125">
+          <g id="Line_131">
+            <line x1="124.5" y1="297" x2="124.5" y2="79" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_130">
+            <line x1="124.5" y1="297" x2="127.74" y2="297" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_129">
+            <line x1="124.5" y1="242.5" x2="127.74" y2="242.5" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_128">
+            <line x1="124.5" y1="188" x2="127.74" y2="188" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_127">
+            <line x1="124.5" y1="133.5" x2="127.74" y2="133.5" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_126">
+            <line x1="124.5" y1="79" x2="127.74" y2="79" stroke="#262626" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+        </g>
+        <g id="Group_123">
+          <g id="Graphic_124">
+            <title>Text</title>
+            <text transform="translate(79.8333 287.333)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">-0.08</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_121">
+          <g id="Graphic_122">
+            <title>Text</title>
+            <text transform="translate(79.8333 232.83302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">-0.06</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_119">
+          <g id="Graphic_120">
+            <title>Text</title>
+            <text transform="translate(79.8333 178.33302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">-0.04</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_117">
+          <g id="Graphic_118">
+            <title>Text</title>
+            <text transform="translate(79.8333 123.83302)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">-0.02</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_115">
+          <g id="Graphic_116">
+            <title>Text</title>
+            <text transform="translate(107.8333 69.333015)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="16.6667" fill="#262626" x="0" y="16">0</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_113">
+          <g id="Graphic_114">
+            <title>Text</title>
+            <text transform="translate(52.0496 249.9999) rotate(-90)" fill="#262626">
+              <tspan font-family="Helvetica" font-size="18.3333" fill="#262626" x="0" y="18">Magnetic value</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_111">
+          <g id="Graphic_112">
+            <title>Text</title>
+            <text transform="translate(181.0003 53.4663)" fill="black">
+              <tspan font-family="Helvetica" font-size="18.3333" fill="black" x="0" y="18">No Significant Differences</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_10">
+          <g id="Graphic_110">
+            <circle cx="124.5" cy="160.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_109">
+            <circle cx="131.1122" cy="160.75" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_108">
+            <circle cx="137.7245" cy="133.5" r="5.00001048951349" fill="red"/>
+          </g>
+          <g id="Graphic_107">
+            <circle cx="144.3367" cy="160.75" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_106">
+            <circle cx="150.949" cy="215.25" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_105">
+            <circle cx="157.5612" cy="215.25" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_104">
+            <circle cx="164.1735" cy="133.5" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_103">
+            <circle cx="170.7857" cy="160.75" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_102">
+            <circle cx="177.398" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_101">
+            <circle cx="184.0102" cy="188" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_100">
+            <circle cx="190.6225" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_99">
+            <circle cx="197.2347" cy="79" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_98">
+            <circle cx="203.8469" cy="106.25" r="5.00001048951349" fill="red"/>
+          </g>
+          <g id="Graphic_97">
+            <circle cx="210.4592" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_96">
+            <circle cx="217.0714" cy="160.75" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_95">
+            <circle cx="223.6837" cy="106.25" r="5.0000104895135" fill="red"/>
+          </g>
+          <g id="Graphic_94">
+            <circle cx="230.2959" cy="160.75" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_93">
+            <circle cx="236.9082" cy="188" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_92">
+            <circle cx="243.5204" cy="297" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_91">
+            <circle cx="250.1327" cy="160.75" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_90">
+            <circle cx="256.7449" cy="242.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_89">
+            <circle cx="263.3571" cy="106.25" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_88">
+            <circle cx="269.9694" cy="106.25" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_87">
+            <circle cx="276.5816" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_86">
+            <circle cx="283.1939" cy="188" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_85">
+            <circle cx="289.8061" cy="188" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_84">
+            <circle cx="296.4184" cy="188" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_83">
+            <circle cx="303.0306" cy="188" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_82">
+            <circle cx="309.6429" cy="160.75" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_81">
+            <circle cx="316.2551" cy="188" r="5.00001048951344" fill="red"/>
+          </g>
+          <g id="Graphic_80">
+            <circle cx="322.8673" cy="188" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_79">
+            <circle cx="329.4796" cy="188" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_78">
+            <circle cx="336.0918" cy="160.75" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_77">
+            <circle cx="342.7041" cy="133.5" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_76">
+            <circle cx="349.3163" cy="106.25" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_75">
+            <circle cx="355.9286" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_74">
+            <circle cx="362.5408" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_73">
+            <circle cx="369.1531" cy="133.5" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_72">
+            <circle cx="375.7653" cy="160.75" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_71">
+            <circle cx="382.3776" cy="188" r="5.00001048951342" fill="red"/>
+          </g>
+          <g id="Graphic_70">
+            <circle cx="388.9898" cy="106.25" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_69">
+            <circle cx="395.6021" cy="106.25" r="5.00001048951345" fill="red"/>
+          </g>
+          <g id="Graphic_68">
+            <circle cx="402.2143" cy="188" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_67">
+            <circle cx="408.8265" cy="215.25" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_66">
+            <circle cx="415.4388" cy="106.25" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_65">
+            <circle cx="422.051" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_64">
+            <circle cx="428.6633" cy="215.25" r="5.00001048951344" fill="red"/>
+          </g>
+          <g id="Graphic_63">
+            <circle cx="435.2755" cy="133.5" r="5.00001048951347" fill="red"/>
+          </g>
+          <g id="Graphic_62">
+            <circle cx="441.8878" cy="106.25" r="5.00001048951348" fill="red"/>
+          </g>
+          <g id="Graphic_61">
+            <circle cx="448.5" cy="106.25" r="5.00001048951346" fill="red"/>
+          </g>
+          <g id="Graphic_60">
+            <circle cx="124.5" cy="188" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_59">
+            <circle cx="131.1122" cy="160.75" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_58">
+            <circle cx="137.7245" cy="160.75" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_57">
+            <circle cx="144.3367" cy="188" r="5.00001048951346" fill="lime"/>
+          </g>
+          <g id="Graphic_56">
+            <circle cx="150.949" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_55">
+            <circle cx="157.5612" cy="269.75" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_54">
+            <circle cx="164.1735" cy="160.75" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_53">
+            <circle cx="170.7857" cy="160.75" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_52">
+            <circle cx="177.398" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_51">
+            <circle cx="184.0102" cy="188" r="5.00001048951346" fill="lime"/>
+          </g>
+          <g id="Graphic_50">
+            <circle cx="190.6225" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_49">
+            <circle cx="197.2347" cy="133.5" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_48">
+            <circle cx="203.8469" cy="160.75" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_47">
+            <circle cx="210.4592" cy="269.75" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_46">
+            <circle cx="217.0714" cy="106.25" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_45">
+            <circle cx="223.6837" cy="188" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_44">
+            <circle cx="230.2959" cy="133.5" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_43">
+            <circle cx="236.9082" cy="160.75" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_42">
+            <circle cx="243.5204" cy="242.5" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_41">
+            <circle cx="250.1327" cy="133.5" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_40">
+            <circle cx="256.7449" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_39">
+            <circle cx="263.3571" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_38">
+            <circle cx="269.9694" cy="133.5" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_37">
+            <circle cx="276.5816" cy="215.25" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_36">
+            <circle cx="283.1939" cy="215.25" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_35">
+            <circle cx="289.8061" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_34">
+            <circle cx="296.4184" cy="242.5" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_33">
+            <circle cx="303.0306" cy="188" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_32">
+            <circle cx="309.6429" cy="79" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_31">
+            <circle cx="316.2551" cy="79" r="5.00001048951348" fill="lime"/>
+          </g>
+          <g id="Graphic_30">
+            <circle cx="322.8673" cy="106.25" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_29">
+            <circle cx="329.4796" cy="133.5" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_28">
+            <circle cx="336.0918" cy="188" r="5.00001048951344" fill="lime"/>
+          </g>
+          <g id="Graphic_27">
+            <circle cx="342.7041" cy="215.25" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_26">
+            <circle cx="349.3163" cy="215.25" r="5.00001048951346" fill="lime"/>
+          </g>
+          <g id="Graphic_25">
+            <circle cx="355.9286" cy="188" r="5.00001048951343" fill="lime"/>
+          </g>
+          <g id="Graphic_24">
+            <circle cx="362.5408" cy="215.25" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_23">
+            <circle cx="369.1531" cy="242.5" r="5.00001048951344" fill="lime"/>
+          </g>
+          <g id="Graphic_22">
+            <circle cx="375.7653" cy="188" r="5.00001048951344" fill="lime"/>
+          </g>
+          <g id="Graphic_21">
+            <circle cx="382.3776" cy="188" r="5.00001048951342" fill="lime"/>
+          </g>
+          <g id="Graphic_20">
+            <circle cx="388.9898" cy="160.75" r="5.00001048951344" fill="lime"/>
+          </g>
+          <g id="Graphic_19">
+            <circle cx="395.6021" cy="160.75" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_18">
+            <circle cx="402.2143" cy="160.75" r="5.00001048951349" fill="lime"/>
+          </g>
+          <g id="Graphic_17">
+            <circle cx="408.8265" cy="188" r="5.00001048951346" fill="lime"/>
+          </g>
+          <g id="Graphic_16">
+            <circle cx="415.4388" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_15">
+            <circle cx="422.051" cy="160.75" r="5.00001048951346" fill="lime"/>
+          </g>
+          <g id="Graphic_14">
+            <circle cx="428.6633" cy="188" r="5.00001048951342" fill="lime"/>
+          </g>
+          <g id="Graphic_13">
+            <circle cx="435.2755" cy="106.25" r="5.00001048951347" fill="lime"/>
+          </g>
+          <g id="Graphic_12">
+            <circle cx="441.8878" cy="188" r="5.00001048951345" fill="lime"/>
+          </g>
+          <g id="Graphic_11">
+            <circle cx="448.5" cy="242.5" r="5.00001048951347" fill="lime"/>
+          </g>
+        </g>
+        <g id="Group_5">
+          <g id="Line_9">
+            <line x1="124.5" y1="79" x2="448.5" y2="79" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_8">
+            <line x1="124.5" y1="297" x2="448.5" y2="297" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_7">
+            <line x1="124.5" y1="79" x2="448.5" y2="79" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+          <g id="Line_6">
+            <line x1="124.5" y1="269.75" x2="448.5" y2="269.75" stroke="#0072bd" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".8333"/>
+          </g>
+        </g>
+        <g id="Group_3">
+          <g id="Graphic_4">
+            <title>Text</title>
+            <text transform="translate(128.53022 -12.5)" fill="black">
+              <tspan font-family="Helvetica" font-size="21.6667" fill="black" x="0" y="21">Scatter plot of magnetometer readings with and without magnetic material</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
